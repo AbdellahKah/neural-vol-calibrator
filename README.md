@@ -19,9 +19,9 @@ Calibrating stochastic volatility models to market option prices is a core task 
 ## Planned Features
 
 - [x] Project setup
-- [ ] Heston Monte Carlo pricer & parameter sampler
-- [ ] SABR Monte Carlo pricer & parameter sampler
-- [ ] Implied volatility surface builder
+- [x] Heston Monte Carlo pricer & parameter sampler
+- [x] SABR Monte Carlo pricer & parameter sampler
+- [x] Implied volatility surface builder
 - [ ] Neural calibrator (PyTorch feedforward network)
 - [ ] Classical benchmark (Scipy Levenberg-Marquardt)
 - [ ] Evaluation: RMSE/MAE per parameter
