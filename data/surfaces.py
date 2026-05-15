@@ -1,7 +1,7 @@
 """
 data/surface.py
 ---------------
-Ipython.
+Implied volatility surface builder.
 
 Takes Heston MC call prices on a (strike, maturity) grid and inverts them
 to implied volatilities using Brent's method on the Black-Scholes formula.
